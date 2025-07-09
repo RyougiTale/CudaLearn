@@ -2,3 +2,5 @@
 *.lib
 *.exp
 .vscode
+*.obj
+*.ptx
